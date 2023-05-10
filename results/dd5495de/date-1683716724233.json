@@ -1,0 +1,51 @@
+{
+  "url": "https://emcasa.com/especialistas-de-vendas",
+  "requestedUrl": "https://www.emcasa.com/especialistas-de-vendas",
+  "timestamp": 1683716825524,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 4,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "9.4.0",
+    "performance": 0.72,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 372
+  },
+  "firstContentfulPaint": 2022.58,
+  "firstMeaningfulPaint": 2022.58,
+  "speedIndex": 3325.7303545142554,
+  "largestContentfulPaint": 2356.58,
+  "totalBlockingTime": 838.5,
+  "cumulativeLayoutShift": 0.06547309027777777,
+  "timeToInteractive": 5982.58,
+  "maxPotentialFirstInputDelay": 507,
+  "timeToFirstByte": 624.752,
+  "weight": {
+    "summary": "41 requests • 542 KiB",
+    "total": 555518,
+    "image": 62716,
+    "imageCount": 3,
+    "script": 324280,
+    "scriptCount": 19,
+    "document": 67096,
+    "font": 34379,
+    "fontCount": 1,
+    "stylesheet": 6195,
+    "stylesheetCount": 2,
+    "thirdParty": 97805,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 488,
+    "violations": 3
+  }
+}
