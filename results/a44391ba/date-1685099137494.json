@@ -1,0 +1,51 @@
+{
+  "url": "https://emcasa.com/imoveis/sp/sao-paulo",
+  "requestedUrl": "https://www.emcasa.com/imoveis/sp/sao-paulo",
+  "timestamp": 1685099296229,
+  "ranks": {
+    "hundos": 3,
+    "performance": 4,
+    "accessibility": 6,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "9.4.0",
+    "performance": 0.61,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 361
+  },
+  "firstContentfulPaint": 2159.8810000000003,
+  "firstMeaningfulPaint": 2159.8810000000003,
+  "speedIndex": 4380.747033175389,
+  "largestContentfulPaint": 2944.9040000000005,
+  "totalBlockingTime": 1087.5000000000018,
+  "cumulativeLayoutShift": 0.022039171006944448,
+  "timeToInteractive": 8324.881000000001,
+  "maxPotentialFirstInputDelay": 626.0000000000009,
+  "timeToFirstByte": 731.2270000000001,
+  "weight": {
+    "summary": "75 requests • 937 KiB",
+    "total": 959578,
+    "image": 387634,
+    "imageCount": 24,
+    "script": 439465,
+    "scriptCount": 23,
+    "document": 50162,
+    "font": 34379,
+    "fontCount": 1,
+    "stylesheet": 14495,
+    "stylesheetCount": 5,
+    "thirdParty": 495231,
+    "thirdPartyCount": 32
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 2596,
+    "violations": 12
+  }
+}
