@@ -1,0 +1,51 @@
+{
+  "url": "https://emcasa.com/corretor-parceiro",
+  "requestedUrl": "https://www.emcasa.com/corretor-parceiro",
+  "timestamp": 1687777672505,
+  "ranks": {
+    "hundos": 8,
+    "performance": 7,
+    "accessibility": 8,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "9.4.0",
+    "performance": 0.4,
+    "accessibility": 0.97,
+    "bestPractices": 0.83,
+    "seo": 0.92,
+    "total": 312
+  },
+  "firstContentfulPaint": 5907.85,
+  "firstMeaningfulPaint": 5907.85,
+  "speedIndex": 5907.85,
+  "largestContentfulPaint": 6207.85,
+  "totalBlockingTime": 733.5,
+  "cumulativeLayoutShift": 0.008091176138983833,
+  "timeToInteractive": 7215.85,
+  "maxPotentialFirstInputDelay": 766,
+  "timeToFirstByte": 389.22099999999995,
+  "weight": {
+    "summary": "39 requests • 750 KiB",
+    "total": 768001,
+    "image": 19357,
+    "imageCount": 18,
+    "script": 534427,
+    "scriptCount": 7,
+    "document": 106035,
+    "font": 34380,
+    "fontCount": 1,
+    "stylesheet": 14283,
+    "stylesheetCount": 3,
+    "thirdParty": 55149,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 741,
+    "violations": 4
+  }
+}
