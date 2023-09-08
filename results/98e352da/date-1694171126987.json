@@ -1,0 +1,51 @@
+{
+  "url": "https://emcasa.com/imoveis/sp/sao-paulo/perdizes/rua-diana/id-1451",
+  "requestedUrl": "https://www.emcasa.com/imoveis/sp/sao-paulo/perdizes/rua-diana/id-1451",
+  "timestamp": 1694171324171,
+  "ranks": {
+    "hundos": 4,
+    "performance": 4,
+    "accessibility": 2,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "9.4.0",
+    "performance": 0.55,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 1,
+    "total": 347
+  },
+  "firstContentfulPaint": 1835.033,
+  "firstMeaningfulPaint": 1835.033,
+  "speedIndex": 4267.985333226261,
+  "largestContentfulPaint": 3416.0464999999995,
+  "totalBlockingTime": 1591.999999999999,
+  "cumulativeLayoutShift": 0.00003888575236002604,
+  "timeToInteractive": 9627.033,
+  "maxPotentialFirstInputDelay": 805,
+  "timeToFirstByte": 35.03,
+  "weight": {
+    "summary": "76 requests • 937 KiB",
+    "total": 959814,
+    "image": 158840,
+    "imageCount": 6,
+    "script": 612427,
+    "scriptCount": 39,
+    "document": 27279,
+    "font": 35872,
+    "fontCount": 1,
+    "stylesheet": 17842,
+    "stylesheetCount": 4,
+    "thirdParty": 271119,
+    "thirdPartyCount": 24
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1767,
+    "violations": 1
+  }
+}
