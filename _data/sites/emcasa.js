@@ -11,6 +11,7 @@ module.exports = {
     "https://emcasa.com/imoveis/sp/sao-paulo/vila-mariana/condominio-abitare-chacara-klabin",
     "https://emcasa.com/imoveis/sp/sao-paulo/bela-vista/hospital-santa-catarina",
     "https://emcasa.com/imoveis/sp/sao-paulo/perdizes/rua-diana/id-1451",
+    "https://emcasa.com/imoveis/sp/sao-paulo/paraiso/rua-do-livramento/id-7078",
     "https://emcasa.com/especialistas-de-vendas",
     "https://emcasa.com/vender",
     "https://emcasa.com/corretor-parceiro",
