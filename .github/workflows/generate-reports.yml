@@ -1,8 +1,6 @@
 name: Generate Reports
 
 on:
-  push:
-  workflow_dispatch:
   schedule:
     - cron: '0 11 * * *' # Everyday UTC 11:00AM -> UTC-3 08:00AM
 
