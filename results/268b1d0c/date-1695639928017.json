@@ -1,0 +1,51 @@
+{
+  "url": "https://emcasa.com/",
+  "requestedUrl": "https://emcasa.com/",
+  "timestamp": 1695640148010,
+  "ranks": {
+    "hundos": 9,
+    "performance": 9,
+    "accessibility": 5,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "9.4.0",
+    "performance": 0.55,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 0.99,
+    "total": 346
+  },
+  "firstContentfulPaint": 1130.12,
+  "firstMeaningfulPaint": 1130.12,
+  "speedIndex": 3181.032941947121,
+  "largestContentfulPaint": 6025.028,
+  "totalBlockingTime": 728.5,
+  "cumulativeLayoutShift": 0.003684524959988064,
+  "timeToInteractive": 6686.7835000000005,
+  "maxPotentialFirstInputDelay": 377,
+  "timeToFirstByte": 45.149,
+  "weight": {
+    "summary": "39 requests • 675 KiB",
+    "total": 691418,
+    "image": 137808,
+    "imageCount": 4,
+    "script": 472389,
+    "scriptCount": 20,
+    "document": 28252,
+    "font": 35872,
+    "fontCount": 1,
+    "stylesheet": 15714,
+    "stylesheetCount": 4,
+    "thirdParty": 182225,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1246,
+    "violations": 2
+  }
+}
