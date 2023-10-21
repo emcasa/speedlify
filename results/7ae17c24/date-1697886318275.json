@@ -1,0 +1,51 @@
+{
+  "url": "https://emcasa.com/imoveis/sp/sao-paulo/vila-mariana/condominio-abitare-chacara-klabin",
+  "requestedUrl": "https://emcasa.com/imoveis/sp/sao-paulo/vila-mariana/condominio-abitare-chacara-klabin",
+  "timestamp": 1697886751136,
+  "ranks": {
+    "hundos": 11,
+    "performance": 12,
+    "accessibility": 9,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "9.4.0",
+    "performance": 0.41,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 1,
+    "total": 333
+  },
+  "firstContentfulPaint": 1232.712,
+  "firstMeaningfulPaint": 1232.712,
+  "speedIndex": 2268.048695999947,
+  "largestContentfulPaint": 6703.219500000001,
+  "totalBlockingTime": 1001.5000000000009,
+  "cumulativeLayoutShift": 0.2974333199395074,
+  "timeToInteractive": 7365.096000000002,
+  "maxPotentialFirstInputDelay": 483,
+  "timeToFirstByte": 42.405,
+  "weight": {
+    "summary": "64 requests • 723 KiB",
+    "total": 740006,
+    "image": 126607,
+    "imageCount": 8,
+    "script": 484037,
+    "scriptCount": 27,
+    "document": 38066,
+    "font": 35872,
+    "fontCount": 1,
+    "stylesheet": 16029,
+    "stylesheetCount": 6,
+    "thirdParty": 229394,
+    "thirdPartyCount": 19
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 717,
+    "violations": 10
+  }
+}
