@@ -1,0 +1,51 @@
+{
+  "url": "https://emcasa.com/imoveis/sp/sao-paulo/bela-vista/hospital-santa-catarina",
+  "requestedUrl": "https://emcasa.com/imoveis/sp/sao-paulo/bela-vista/hospital-santa-catarina",
+  "timestamp": 1700392320804,
+  "ranks": {
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 9,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "9.4.0",
+    "performance": 0.7,
+    "accessibility": 1,
+    "bestPractices": 0.92,
+    "seo": 1,
+    "total": 362
+  },
+  "firstContentfulPaint": 1265.1109999999999,
+  "firstMeaningfulPaint": 1265.1109999999999,
+  "speedIndex": 3763.1745236732336,
+  "largestContentfulPaint": 3051.8234999999995,
+  "totalBlockingTime": 649.5,
+  "cumulativeLayoutShift": 0.02635655381944444,
+  "timeToInteractive": 8080.142,
+  "maxPotentialFirstInputDelay": 464,
+  "timeToFirstByte": 27.231,
+  "weight": {
+    "summary": "87 requests • 1,208 KiB",
+    "total": 1236535,
+    "image": 330893,
+    "imageCount": 19,
+    "script": 764813,
+    "scriptCount": 37,
+    "document": 49465,
+    "font": 35873,
+    "fontCount": 1,
+    "stylesheet": 15419,
+    "stylesheetCount": 5,
+    "thirdParty": 662460,
+    "thirdPartyCount": 40
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 2217,
+    "violations": 10
+  }
+}
