@@ -1,0 +1,51 @@
+{
+  "url": "https://emcasa.com/imoveis/sp/sao-paulo/paraiso/rua-do-livramento/id-7078",
+  "requestedUrl": "https://emcasa.com/imoveis/sp/sao-paulo/paraiso/rua-do-livramento/id-7078",
+  "timestamp": 1700910713303,
+  "ranks": {
+    "hundos": 9,
+    "performance": 8,
+    "accessibility": 13,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "9.4.0",
+    "performance": 0.63,
+    "accessibility": 0.97,
+    "bestPractices": 0.92,
+    "seo": 1,
+    "total": 352
+  },
+  "firstContentfulPaint": 1062.847,
+  "firstMeaningfulPaint": 1062.847,
+  "speedIndex": 1959.4078045721817,
+  "largestContentfulPaint": 5389.91,
+  "totalBlockingTime": 565.3579999999988,
+  "cumulativeLayoutShift": 0.02635655381944444,
+  "timeToInteractive": 5455.180999999999,
+  "maxPotentialFirstInputDelay": 472.9999999999991,
+  "timeToFirstByte": 42.166,
+  "weight": {
+    "summary": "41 requests • 541 KiB",
+    "total": 553615,
+    "image": 56832,
+    "imageCount": 3,
+    "script": 420271,
+    "scriptCount": 19,
+    "document": 23831,
+    "font": 35873,
+    "fontCount": 1,
+    "stylesheet": 15516,
+    "stylesheetCount": 3,
+    "thirdParty": 65064,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1014,
+    "violations": 3
+  }
+}
