@@ -1,0 +1,51 @@
+{
+  "url": "https://emcasa.com/regioes-atendidas/sp/sao-paulo",
+  "requestedUrl": "https://emcasa.com/regioes-atendidas/sp/sao-paulo",
+  "timestamp": 1704539270203,
+  "ranks": {
+    "hundos": 12,
+    "performance": 12,
+    "accessibility": 1,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "9.4.0",
+    "performance": 0.4,
+    "accessibility": 1,
+    "bestPractices": 0.83,
+    "seo": 1,
+    "total": 323
+  },
+  "firstContentfulPaint": 1268.9429999999998,
+  "firstMeaningfulPaint": 1268.9429999999998,
+  "speedIndex": 4732.321545728912,
+  "largestContentfulPaint": 6124.958999999999,
+  "totalBlockingTime": 1536.5,
+  "cumulativeLayoutShift": 0.02635655381944444,
+  "timeToInteractive": 11715.497999999996,
+  "maxPotentialFirstInputDelay": 471,
+  "timeToFirstByte": 38.89399999999999,
+  "weight": {
+    "summary": "89 requests • 1,361 KiB",
+    "total": 1393406,
+    "image": 284572,
+    "imageCount": 8,
+    "script": 855043,
+    "scriptCount": 41,
+    "document": 51991,
+    "font": 35872,
+    "fontCount": 1,
+    "stylesheet": 10249,
+    "stylesheetCount": 3,
+    "thirdParty": 837083,
+    "thirdPartyCount": 38
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 3081,
+    "violations": 1
+  }
+}
