@@ -1,0 +1,51 @@
+{
+  "url": "https://emcasa.com/regioes-atendidas",
+  "requestedUrl": "https://emcasa.com/regioes-atendidas",
+  "timestamp": 1712833658876,
+  "ranks": {
+    "hundos": 5,
+    "performance": 6,
+    "accessibility": 11,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "9.4.0",
+    "performance": 0.67,
+    "accessibility": 0.98,
+    "bestPractices": 0.92,
+    "seo": 1,
+    "total": 357
+  },
+  "firstContentfulPaint": 893.604,
+  "firstMeaningfulPaint": 893.604,
+  "speedIndex": 2269.196232872518,
+  "largestContentfulPaint": 6047.234,
+  "totalBlockingTime": 336,
+  "cumulativeLayoutShift": 0.02635655381944444,
+  "timeToInteractive": 5807.285,
+  "maxPotentialFirstInputDelay": 441,
+  "timeToFirstByte": 6.475000000000001,
+  "weight": {
+    "summary": "59 requests • 991 KiB",
+    "total": 1014630,
+    "image": 451753,
+    "imageCount": 5,
+    "script": 324724,
+    "scriptCount": 24,
+    "document": 8393,
+    "font": 35871,
+    "fontCount": 1,
+    "stylesheet": 6106,
+    "stylesheetCount": 2,
+    "thirdParty": 484891,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 427,
+    "violations": 2
+  }
+}
