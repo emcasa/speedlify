@@ -1,0 +1,51 @@
+{
+  "url": "https://emcasa.com/regioes-atendidas/sp/sao-paulo/vila-mariana",
+  "requestedUrl": "https://emcasa.com/regioes-atendidas/sp/sao-paulo/vila-mariana",
+  "timestamp": 1714130004922,
+  "ranks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 3,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "9.4.0",
+    "performance": 0.7,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 370
+  },
+  "firstContentfulPaint": 1154.963,
+  "firstMeaningfulPaint": 1154.963,
+  "speedIndex": 3625.869619172494,
+  "largestContentfulPaint": 3442.193,
+  "totalBlockingTime": 604.5,
+  "cumulativeLayoutShift": 0.02635655381944444,
+  "timeToInteractive": 6629.346999999998,
+  "maxPotentialFirstInputDelay": 433,
+  "timeToFirstByte": 18.179999999999993,
+  "weight": {
+    "summary": "64 requests • 1,016 KiB",
+    "total": 1040281,
+    "image": 319561,
+    "imageCount": 4,
+    "script": 462716,
+    "scriptCount": 27,
+    "document": 37078,
+    "font": 35872,
+    "fontCount": 1,
+    "stylesheet": 10166,
+    "stylesheetCount": 3,
+    "thirdParty": 469047,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 2428,
+    "violations": 1
+  }
+}
