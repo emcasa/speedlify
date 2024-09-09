@@ -1,0 +1,115 @@
+{
+  "https://emcasa.com/corretor-parceiro": {
+    "requestedUrl": "https://emcasa.com/corretor-parceiro",
+    "url": "https://emcasa.com/parceria",
+    "hash": "d84d78d3",
+    "categories": [
+      "emcasa"
+    ],
+    "vertical": "emcasa"
+  },
+  "https://emcasa.com/": {
+    "requestedUrl": "https://emcasa.com/",
+    "url": "https://emcasa.com/",
+    "hash": "268b1d0c",
+    "categories": [
+      "emcasa"
+    ],
+    "vertical": "emcasa"
+  },
+  "https://emcasa.com/vender": {
+    "requestedUrl": "https://emcasa.com/vender",
+    "url": "https://emcasa.com/vender",
+    "hash": "5ba0c5a2",
+    "categories": [
+      "emcasa"
+    ],
+    "vertical": "emcasa"
+  },
+  "https://emcasa.com/imoveis/sp/sao-paulo/vila-mariana/condominio-abitare-chacara-klabin": {
+    "requestedUrl": "https://emcasa.com/imoveis/sp/sao-paulo/vila-mariana/condominio-abitare-chacara-klabin",
+    "url": "https://emcasa.com/imoveis/sp/sao-paulo/vila-mariana/condominio-abitare-chacara-klabin",
+    "hash": "7ae17c24",
+    "categories": [
+      "emcasa"
+    ],
+    "vertical": "emcasa"
+  },
+  "https://emcasa.com/regioes-atendidas": {
+    "requestedUrl": "https://emcasa.com/regioes-atendidas",
+    "url": "https://emcasa.com/regioes-atendidas",
+    "hash": "8df41144",
+    "categories": [
+      "emcasa"
+    ],
+    "vertical": "emcasa"
+  },
+  "https://emcasa.com/regioes-atendidas/sp/sao-paulo": {
+    "requestedUrl": "https://emcasa.com/regioes-atendidas/sp/sao-paulo",
+    "url": "https://emcasa.com/regioes-atendidas/sp/sao-paulo",
+    "hash": "9371c130",
+    "categories": [
+      "emcasa"
+    ],
+    "vertical": "emcasa"
+  },
+  "https://emcasa.com/imoveis/sp/sao-paulo/perdizes/rua-diana/id-1451": {
+    "requestedUrl": "https://emcasa.com/imoveis/sp/sao-paulo/perdizes/rua-diana/id-1451",
+    "url": "https://emcasa.com/imoveis/sp/sao-paulo/perdizes/rua-diana/id-1451",
+    "hash": "98e352da",
+    "categories": [
+      "emcasa"
+    ],
+    "vertical": "emcasa"
+  },
+  "https://emcasa.com/imoveis/sp/sao-paulo": {
+    "requestedUrl": "https://emcasa.com/imoveis/sp/sao-paulo",
+    "url": "https://emcasa.com/imoveis/sp/sao-paulo",
+    "hash": "a44391ba",
+    "categories": [
+      "emcasa"
+    ],
+    "vertical": "emcasa"
+  },
+  "undefined": {
+    "url": "https://emcasa.com/regioes-atendidas/sp/sao-paulo/vila-mariana/condominio-abitare-chacara-klabin",
+    "hash": "b5e8ad2e",
+    "categories": []
+  },
+  "https://emcasa.com/imoveis/sp/sao-paulo/bela-vista/hospital-santa-catarina": {
+    "requestedUrl": "https://emcasa.com/imoveis/sp/sao-paulo/bela-vista/hospital-santa-catarina",
+    "url": "https://emcasa.com/imoveis/sp/sao-paulo/bela-vista/hospital-santa-catarina",
+    "hash": "d83e88da",
+    "categories": [
+      "emcasa"
+    ],
+    "vertical": "emcasa"
+  },
+  "https://emcasa.com/especialistas-de-vendas": {
+    "requestedUrl": "https://emcasa.com/especialistas-de-vendas",
+    "url": "https://emcasa.com/especialistas-de-vendas",
+    "hash": "dd5495de",
+    "categories": [
+      "emcasa"
+    ],
+    "vertical": "emcasa"
+  },
+  "https://emcasa.com/regioes-atendidas/sp/sao-paulo/vila-mariana": {
+    "requestedUrl": "https://emcasa.com/regioes-atendidas/sp/sao-paulo/vila-mariana",
+    "url": "https://emcasa.com/regioes-atendidas/sp/sao-paulo/vila-mariana",
+    "hash": "e57a88f9",
+    "categories": [
+      "emcasa"
+    ],
+    "vertical": "emcasa"
+  },
+  "https://emcasa.com/imoveis/sp/sao-paulo/paraiso/rua-do-livramento/id-7078": {
+    "requestedUrl": "https://emcasa.com/imoveis/sp/sao-paulo/paraiso/rua-do-livramento/id-7078",
+    "url": "https://emcasa.com/imoveis/sp/sao-paulo/paraiso/rua-do-livramento/id-7078",
+    "hash": "f2ac4cda",
+    "categories": [
+      "emcasa"
+    ],
+    "vertical": "emcasa"
+  }
+}
